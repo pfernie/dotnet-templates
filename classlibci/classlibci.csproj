@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+
+    <Version>0.0.0</Version> <!-- managed by release.sh -->
+    <Authors>pfernie</Authors>
+    <Company></Company>
+    <PackageDescription></PackageDescription>
+    <RepositoryUrl></RepositoryUrl>
+
+    <ImplicitUsings>enable</ImplicitUsings>
+    <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
